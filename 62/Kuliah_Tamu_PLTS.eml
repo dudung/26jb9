@@ -1,4 +1,4 @@
-Delivered-To: dudung@gmail.com
+Delivered-To: noname@gmail.com
 Received: by 2002:a17:906:8452:b0:c49:aed4:71e9 with SMTP id e18csp259397ejy;
         Wed, 28 Oct 2026 21:46:11 -0700 (PDT)
 X-Received: by 2002:a05:690e:d89:b0:679:90c8:be6 with SMTP id 956f58d0204a3-67a7bc66927mr6603970d50.3.1793249170872;
@@ -30,7 +30,7 @@ ARC-Authentication-Results: i=1; mx.google.com;
 Return-Path: <elektro@ub.ac.id>
 Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
         by mx.google.com with SMTPS id 956f58d0204a3-67a45f55543sor10001669d50.1.2026.10.28.21.46.10
-        for <dudung@gmail.com>
+        for <noname@gmail.com>
         (Google Transport Security);
         Wed, 28 Oct 2026 21:46:10 -0700 (PDT)
 Received-SPF: pass (google.com: domain of elektro@ub.ac.id designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
@@ -73,7 +73,7 @@ Message-ID: <autogen-java-d54c773b-49dd-4b65-99f9-b0e51fbf050e@google.com>
 Date: Thu, 29 Oct 2026 04:46:10 +0000
 Subject: Kuliah Tamu: "PLTS"
 From: elektro@ub.ac.id
-To: dudung@gmail.com
+To: noname@gmail.com
 Content-Type: multipart/alternative; boundary="000000000000c70610065ef35b3c"
 
 --000000000000c70610065ef35b3c
