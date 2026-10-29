@@ -30,4 +30,4 @@ https://us06web.zoom.us/j/88002020342?pwd=Zwu9QWDeiCvdnWso1UDLY8jNabv6TW.1
 
 🎯 Jangan lewatkan kesempatan untuk memperluas wawasan, membangun jejaring, dan mendorong inovasi serta hilirisasi mikroalga Indonesia!
 
- #ASMI #WebinarMikroalga #Astaxanthin #HilirisasiMikroalga #InovasiKelautan #Bioindustri #KKP #BRIN
+#ASMI #WebinarMikroalga #Astaxanthin #HilirisasiMikroalga #InovasiKelautan #Bioindustri #KKP #BRIN
