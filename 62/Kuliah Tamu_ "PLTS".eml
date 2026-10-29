@@ -1,0 +1,114 @@
+Delivered-To: dudung@gmail.com
+Received: by 2002:a17:906:8452:b0:c49:aed4:71e9 with SMTP id e18csp259397ejy;
+        Wed, 28 Oct 2026 21:46:11 -0700 (PDT)
+X-Received: by 2002:a05:690e:d89:b0:679:90c8:be6 with SMTP id 956f58d0204a3-67a7bc66927mr6603970d50.3.1793249170872;
+        Wed, 28 Oct 2026 21:46:10 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1793249170; cv=none;
+        d=google.com; s=arc-20260327;
+        b=EddJqvsvOFflaP/kn4RuXLxq9CBvJKAeDdVQ3+JWeBhodr2I0SayElw2pkXsxxGsRG
+         P4fi6hllj1izoCx9lefJDwKdMuTD0TCncvtliB+orXcdcBR6yeoWYDDbpDJwkGF6C0Z9
+         5+vkU8YAyzW2wFbuL42s/t9+5SmUaxCBdSA/VjabbMf7/sV0ivw+4xwf7XqhnPdDMhfW
+         WTh1wQ+yo81QO7WnxFHKMoErzzR7zNzmClOxz0eaiGXYGZ6VCZxrcifSv79WuSl2GjsS
+         eP6xi9SAp8AH3UMR8+oOwB8dKKgh3OrZXv7Ecq8sIWSdOJg4ui2ldyllhMkRAFCyE3Fb
+         7pIw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=to:from:subject:date:message-id:mime-version:dkim-signature;
+        bh=AmCQl/YqsAQvM6hcrbQNpXxPq3H7K6ryZhyQkuKMDks=;
+        fh=qXxSSZTrbh6Aqr5j8s4qktHCOt8QdSg5NS6ONScABu8=;
+        b=aXRN3Hinv4xoxSJP3d63HwRVW4mYAygW52p9639vA87EwWFRIojmNnh2Z8IX3XxmKS
+         T84IEiWhHgdDh8+UppcBuRHfJgCNxfGpH1lnjLw7L6Jb6dCgHMazzxttQD+epNKfKSBs
+         RPC0ZQUdYtn1Wg3EOZc2K08+JuFQgJDYg/yRlZQb5hRG+5L2CWXVAfKF8RoDNeAehmRj
+         Wj7LNl7Lpi2XUYb/g12b53Cx2UJjzEW77BgKNvmEtq4pa6OPvbZ6ZNFEnDJUJ2jSDn66
+         NNeWEhO6W/99Wn9WR27AqvQLTa1LF8fFbjLWWGDv50Wls3UmJEvYi2cOjUDnEifGX3kN
+         4Oeg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@ub.ac.id header.s=google header.b=YZvjKpDF;
+       spf=pass (google.com: domain of elektro@ub.ac.id designates 209.85.220.69 as permitted sender) smtp.mailfrom=elektro@ub.ac.id;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=ub.ac.id;
+       dara=pass header.i=@gmail.com
+Return-Path: <elektro@ub.ac.id>
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id 956f58d0204a3-67a45f55543sor10001669d50.1.2026.10.28.21.46.10
+        for <dudung@gmail.com>
+        (Google Transport Security);
+        Wed, 28 Oct 2026 21:46:10 -0700 (PDT)
+Received-SPF: pass (google.com: domain of elektro@ub.ac.id designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@ub.ac.id header.s=google header.b=YZvjKpDF;
+       spf=pass (google.com: domain of elektro@ub.ac.id designates 209.85.220.69 as permitted sender) smtp.mailfrom=elektro@ub.ac.id;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=ub.ac.id;
+       dara=pass header.i=@gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ub.ac.id; s=google; t=1793249170; x=1793853970; dara=google.com;
+        h=content-type:to:from:subject:date:message-id:mime-version:from:to
+         :cc:subject:date:message-id:reply-to:content-type;
+        bh=AmCQl/YqsAQvM6hcrbQNpXxPq3H7K6ryZhyQkuKMDks=;
+        b=YZvjKpDFNtQ6DFqQ8nNpgz81fHPsc3MgDhdt53irCfGOMIlRidgPrsg19VW7R5X5j+
+         m5UMYUoVbaMkJDnb4JYkiunRIqzYk91kXfznx7JxfFtxBH1nKBasowI59jXxMxtMZwuk
+         GqPjJ/paO034nbPJ3d/TgrRBgpnk4RYLcyKE3t0CxxB5KlSq3xlBtnXxRBrCOfrWxzmm
+         r/wqtxA731DQPjEJ/UFqM7mZkxvH7n6H61JaEie3SPeu2pBpWqvEso8FmDFJXCYEAen6
+         TGNZAtns/gTMHFjHme36uIg+K47XBFldmvTn3zthh/ki0xFLw4dd2F9FkxNwtanyXJb0
+         eDLA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20260707; t=1793249170; x=1793853970;
+        h=content-type:to:from:subject:date:message-id:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to
+         :content-type;
+        bh=AmCQl/YqsAQvM6hcrbQNpXxPq3H7K6ryZhyQkuKMDks=;
+        b=KXoqF4UJLs5oLCOg3zRF2ifkv1V6FuJLxOVdLtwhG2eq3BjvTqO4tZBr/+DNyY7EvD
+         R62ePbwoHXv1xSoIIMS4hDH+4bv6g6kiSkCYVUWgXfdMfDGuyBZzEXtegY7V+K+L2Hip
+         /wHZozH/mQvE0yrlbqGZO0JQYa1FsjqagB6El4AX0zgPAQhF3QiR3P7zC0pJFIS1iKRI
+         uRy8JxXRWtsdMxIb6A8LhCn8Pmv86+ukXHzlxyqyhJbbAeP7TRpDWmeyl5li85ru5saJ
+         4bCDDTbHLJqR1lloVSelSW8YPtcgXsbTkhY8Rh0blQyZYNeDXafuFyVhJQysBNDniNwW
+         SHxA==
+X-Gm-Message-State: AFq9FYLHov00uz+od4m1jVLnH7o/QkFkvDX+D9o+kLIOF2/HWQEZCjcR
+	8Gup9k0Dc6KMmcU3R+jprME/Vw7rr1mPolk5EMi19GpOq6ksY/D8XZ7v+b8fR1SJVmxLO1K2wNP
+	84j80r5JG681YxBpFm2BC/Q==
+MIME-Version: 1.0
+X-Received: by 2002:a05:690e:16a1:b0:679:8ef6:d7f4 with SMTP id
+ 956f58d0204a3-67a7bc8622cmr3891919d50.59.1793249170092; Wed, 28 Oct 2026
+ 21:46:10 -0700 (PDT)
+Message-ID: <autogen-java-d54c773b-49dd-4b65-99f9-b0e51fbf050e@google.com>
+Date: Thu, 29 Oct 2026 04:46:10 +0000
+Subject: Kuliah Tamu: "PLTS"
+From: elektro@ub.ac.id
+To: dudung@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000c70610065ef35b3c"
+
+--000000000000c70610065ef35b3c
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+Kuliah Tamu: "PLTS"
+Departemen Teknik Elektro - Fakultas Teknik - Universitas Brawijaya
+Waktu 30 Oktober 2026, Jam 13.00-Selesai
+Pemateri: Dr. Ir. Djoko Darwanto (Dosen Praktisi IATKI)
+
+link zoom: https://s.ub.ac.id/zoom30okt2026
+Meeting ID: 945 5562 8843
+Passcode: 019349
+
+Presensi untuk sertifikat akan diberikan saat kuliah tamu berlangsung,  
+harap mengikuti kuliah tamu hingga berakhir.
+
+Silahkan download materi yang akan digunakan saat kuliah tamu berlangsung.
+https://drive.google.com/file/d/11NtcNpu0KzkmJ8Vo8vx5P3OZXgiihA37/view?usp=sharing
+
+--000000000000c70610065ef35b3c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Kuliah Tamu: "PLTS"<br>Departemen Teknik Elektro - Fakultas Teknik - Univer=
+sitas Brawijaya<br>Waktu 30 Oktober 2026, Jam 13.00-Selesai<br>Pemateri: Dr=
+. Ir. Djoko Darwanto (Dosen Praktisi IATKI)<br><br>link zoom: https://s.ub.=
+ac.id/zoom30okt2026<br>Meeting ID: 945 5562 8843<br>Passcode: 019349 <br><b=
+r>Presensi untuk sertifikat akan diberikan saat kuliah tamu berlangsung, ha=
+rap mengikuti kuliah tamu hingga berakhir.<br><br>Silahkan download materi =
+yang akan digunakan saat kuliah tamu berlangsung.<br>https://drive.google.c=
+om/file/d/11NtcNpu0KzkmJ8Vo8vx5P3OZXgiihA37/view?usp=3Dsharing<br><table st=
+yle=3D"border:1px; padding:15px; background-color:#DDDDDD"><tr><td>elektro@=
+ub.ac.id has just shared this viewable Google Presentation with you:</td><t=
+d><a href =3D https://docs.google.com/presentation/d/1Xm5XAw8Hnfc2j_Qllwkyn=
+PQJ3L0iaysV7jCR1RCZ2zs/edit?usp=3Ddrivesdk>1</a></td></tr></table><br /><br=
+ />
+--000000000000c70610065ef35b3c--
