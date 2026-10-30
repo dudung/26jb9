@@ -1,6 +1,8 @@
 # 65_guest_lecture_ub
 list of certificates
 
++ certificate
+
 
 ## material
 + 30-oct-2026 0505 Send request to access Google Drive

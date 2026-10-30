@@ -1,6 +1,8 @@
 # 64_asmi_webinar
 list of certificates
 
++ certificate
+
 
 ## vb
 selamat pagi bapak ibu hadirin peserta webinar, mohon untuk menggunakan virtual background pada link beirkut ini,  https://linktr.ee/sonyaajah23
