@@ -35,6 +35,9 @@ elektro@ub.ac.id has just shared this viewable Google Presentation with you:	1
 
 
 ## info
+url https://drive.google.com/file/d/1-8mwivig0gj-GSG5vnDYaojIQhcS-IEq/view?usp=sharing
+Revisi_External Internal Lightning Protection System for Solar Plant.pdf --> speaker.pdf
+
 [11:07, 10/29/2026] DAAD Djoko Darwanto:
 WhatsApp Image 2026-10-29 at 11.07.01.jpeg -> poster.jpeg
 
