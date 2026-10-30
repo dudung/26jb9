@@ -4,6 +4,34 @@ list of certificates
 + [certificate](certificate.pdf)
 
 
+## email
+Icsap26 Adm<icsap26.adm@gmail.com>
+
+Dr. rer. nat. Sparisoma Viridi, S.Si.
+Dear  Sparisoma Viridi ,
+On behalf of the ICSAP 2026 Committee, thank you for joining the International Conference on Science and Applied Physics (ICSAP 2026), held on 16–17 October 2026 in Pekanbaru, Indonesia. We sincerely appreciate your contribution and participation.
+Please find the following documents attached to this email:
+1. Certificate of [Presentation / Participation]
+2.Official payment receipt for your conference registration
+If any correction is needed, please reply to this email with the correct spelling and we will send you the revised files.
+We hope the conference was a valuable experience for you, and we look forward to welcoming you again at future ICSAP events.
+
+Best regards,
+Prof. Nur Islami, Ph.D
+ICSAP 2026 Chairman
+
+Dr. rer. nat. Sparisoma Viridi, S.Si.
+
+Icsap26 Adm <icsap26.adm@gmail.com>
+Dear Prof. Nur Islami, Ph.D
+
+Thank you for the email and its attachments.
+
+Warm regards,
+Sparisoma Viridi
+
+
+
 ## zoom
 Topic: ICSAP 2026
 Time: Oct 15, 2026 12:00 AM Jakarta
