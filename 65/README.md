@@ -1,4 +1,4 @@
-# 62_guest_lecture_ub
+# 65_guest_lecture_ub
 list of certificates
 
 
@@ -33,7 +33,7 @@ elektro@ub.ac.id has just shared this viewable Google Presentation with you:	1
 
 
 ## info
-[11:07, 10/29/2026] +62 821-1731-7329:
+[11:07, 10/29/2026] DAAD Djoko Darwanto:
 WhatsApp Image 2026-10-29 at 11.07.01.jpeg
 
 Bapak/Ibu dan rekan-rekan yang kami hormati,
