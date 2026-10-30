@@ -29,3 +29,8 @@ Panitia ICMNS
 0929 Registration
 + [registration_p1.pdf](registration_p1.pdf)
 + [registration_p2.pdf](registration_p2.pdf)
+
+[10:30, 10/30/2026] Sparisoma Viridi: Done, Bu.
+[10:30, 10/30/2026] Sparisoma Viridi: Alhamdulillah pas minggu tenang sebelum UAS. Pas waktunya 🙏👍🏻
+[10:31, 10/30/2026] AS Aprilia: Alhamdulillah Pak, nuhun ya
+[10:57, 10/30/2026] Sparisoma Viridi: Sama-sama, Bu.
