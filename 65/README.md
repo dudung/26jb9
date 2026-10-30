@@ -34,7 +34,7 @@ elektro@ub.ac.id has just shared this viewable Google Presentation with you:	1
 
 ## info
 [11:07, 10/29/2026] DAAD Djoko Darwanto:
-WhatsApp Image 2026-10-29 at 11.07.01.jpeg
+WhatsApp Image 2026-10-29 at 11.07.01.jpeg -> poster.jpeg
 
 Bapak/Ibu dan rekan-rekan yang kami hormati,
 Kami mengundang kegiatan kuliah Tamu: " External Internal Lightning Protection for Photovoltaic Solar Plant " Departemen Teknik Elektro - Fakultas Teknik - Universitas Brawijaya
