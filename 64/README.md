@@ -2,6 +2,10 @@
 list of certificates
 
 
+## vb
+selamat pagi bapak ibu hadirin peserta webinar, mohon untuk menggunakan virtual background pada link beirkut ini,  https://linktr.ee/sonyaajah23
+
+
 ## info
 WEBINAR ASOSIASI PRAKTISI MIKROALGA INDONESIA (ASMI)
 
