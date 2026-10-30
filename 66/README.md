@@ -23,8 +23,8 @@ Demikian undangan ini kami sampaikan. Atas perhatian dan kesediaan Bapak/Ibu, ka
 Panitia ICMNS
 [09:23, 10/30/2026] AS Aprilia: Sebagai informasi tambahan, tidak ada biaya pendaftaran untuk Bapak Ibu yang berkenan hadir 🙏
 
-[09:26, 10/30/2026] Sparisoma Viridi: Sebagai informasi tambahan, tidak ada biaya pendaftaran untuk Bapak Ibu yang berkenan hadir 
-Terima kasih, Bu April
+[09:26, 10/30/2026] Sparisoma Viridi: Terima kasih, Bu April
+[09:29, 10/30/2026] AS Aprilia: Sama2 Pak Dudung
 
 0929 Registration
 + [registration_p1.pdf](registration_p1.pdf)
