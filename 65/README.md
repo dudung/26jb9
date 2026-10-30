@@ -1,11 +1,17 @@
 # 65_guest_lecture_ub
 list of certificates
 
-+ certificate
++ [certificate](certificate.pdf)
 
 
-## material
-+ 30-oct-2026 0505 Send request to access Google Drive
+## info
+Berikut link presensi dan sertifikat. Silahkan diisi dengan benar
+
+https://forms.gle/UnowQioH5gjGyKat5
+presensi_p1.pdf
+presensi_p2.pdf
+
+sertifikat Dr. rer. nat. Sparisoma Viridi.pdf -> certificate.pdf
 
 
 ## email
@@ -32,6 +38,10 @@ Presensi untuk sertifikat akan diberikan saat kuliah tamu berlangsung, harap men
 Silahkan download materi yang akan digunakan saat kuliah tamu berlangsung.
 https://drive.google.com/file/d/11NtcNpu0KzkmJ8Vo8vx5P3OZXgiihA37/view?usp=sharing
 elektro@ub.ac.id has just shared this viewable Google Presentation with you:	1
+
+
+## material
++ 30-oct-2026 0505 Send request to access Google Drive
 
 
 ## info
