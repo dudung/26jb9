@@ -4,6 +4,11 @@ list of certificates
 + [certificate](certificate.pdf)
 
 
+## files
+Flyer_JC_2025.jpg -> flyer.jpg
+Dr. rar. net. Sparisoma Viridi - Invited Speaker.pdf -> certificate.pdf
+Dr. rar. net. Sparisoma Viridi - Participants.pdf -> certificate_2.pdf
+
 ## info
 url https://www.finder.ac.id/event-details/joint-conferences-2025
 
